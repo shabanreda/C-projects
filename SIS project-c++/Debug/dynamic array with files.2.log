@@ -1,0 +1,4 @@
+﻿  dynamic array with files.2.cpp
+J:\dynamic array with files.2\dynamic array with files.2\dynamic array with files.2.cpp(653,46): warning C4805: '!=': unsafe mix of type 'char' and type 'bool' in operation
+J:\dynamic array with files.2\dynamic array with files.2\dynamic array with files.2.cpp(569,18): warning C4101: 'b': unreferenced local variable
+  dynamic array with files.2.vcxproj -> J:\dynamic array with files.2\dynamic array with files.2\Debug\dynamic array with files.2.exe
