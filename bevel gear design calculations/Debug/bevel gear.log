@@ -1,0 +1,9 @@
+﻿  bevel gear.cpp
+C:\Users\shaban reda\source\repos\bevel gear calculations\bevel gear.cpp(53,296): warning C4101: 'er': unreferenced local variable
+C:\Users\shaban reda\source\repos\bevel gear calculations\bevel gear.cpp(53,253): warning C4101: 'Sug': unreferenced local variable
+C:\Users\shaban reda\source\repos\bevel gear calculations\bevel gear.cpp(53,264): warning C4101: 'Seng': unreferenced local variable
+C:\Users\shaban reda\source\repos\bevel gear calculations\bevel gear.cpp(53,291): warning C4101: 'e': unreferenced local variable
+C:\Users\shaban reda\source\repos\bevel gear calculations\bevel gear.cpp(53,248): warning C4101: 'Syg': unreferenced local variable
+C:\Users\shaban reda\source\repos\bevel gear calculations\bevel gear.cpp(53,258): warning C4101: 'Senp': unreferenced local variable
+C:\Users\shaban reda\source\repos\bevel gear calculations\bevel gear.cpp(53,234): warning C4101: 'Sg': unreferenced local variable
+  bevel gear.vcxproj -> C:\Users\shaban reda\source\repos\bevel gear calculations\Debug\bevel gear.exe

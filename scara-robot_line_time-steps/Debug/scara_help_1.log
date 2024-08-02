@@ -1,0 +1,9 @@
+﻿  scara_help_1.cpp
+J:\robotic arm\SCARA project\code\scara_help_1\scara_help_1.cpp(66,29): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+J:\robotic arm\SCARA project\code\scara_help_1\scara_help_1.cpp(66,26): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+J:\robotic arm\SCARA project\code\scara_help_1\scara_help_1.cpp(66,23): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+J:\robotic arm\SCARA project\code\scara_help_1\scara_help_1.cpp(66,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+J:\robotic arm\SCARA project\code\scara_help_1\scara_help_1.cpp(66,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+J:\robotic arm\SCARA project\code\scara_help_1\scara_help_1.cpp(55,33): warning C4101: 'q2': unreferenced local variable
+J:\robotic arm\SCARA project\code\scara_help_1\scara_help_1.cpp(55,29): warning C4101: 'q1': unreferenced local variable
+  scara_help_1.vcxproj -> J:\robotic arm\SCARA project\code\scara_help_1\Debug\scara_help_1.exe

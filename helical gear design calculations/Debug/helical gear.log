@@ -1,0 +1,15 @@
+﻿  helical gear.cpp
+C:\Users\shaban reda\source\repos\helical gear\helical gear.cpp(122,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\shaban reda\source\repos\helical gear\helical gear.cpp(123,43): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\shaban reda\source\repos\helical gear\helical gear.cpp(53,333): warning C4101: 'er': unreferenced local variable
+C:\Users\shaban reda\source\repos\helical gear\helical gear.cpp(53,113): warning C4101: 'Zfg': unreferenced local variable
+C:\Users\shaban reda\source\repos\helical gear\helical gear.cpp(53,108): warning C4101: 'Zfp': unreferenced local variable
+C:\Users\shaban reda\source\repos\helical gear\helical gear.cpp(53,287): warning C4101: 'Sug': unreferenced local variable
+C:\Users\shaban reda\source\repos\helical gear\helical gear.cpp(53,298): warning C4101: 'Seng': unreferenced local variable
+C:\Users\shaban reda\source\repos\helical gear\helical gear.cpp(53,326): warning C4101: 'e': unreferenced local variable
+C:\Users\shaban reda\source\repos\helical gear\helical gear.cpp(53,197): warning C4101: 'Fag': unreferenced local variable
+C:\Users\shaban reda\source\repos\helical gear\helical gear.cpp(53,187): warning C4101: 'Frg': unreferenced local variable
+C:\Users\shaban reda\source\repos\helical gear\helical gear.cpp(53,282): warning C4101: 'Syg': unreferenced local variable
+C:\Users\shaban reda\source\repos\helical gear\helical gear.cpp(53,292): warning C4101: 'Senp': unreferenced local variable
+C:\Users\shaban reda\source\repos\helical gear\helical gear.cpp(53,268): warning C4101: 'Sg': unreferenced local variable
+  helical gear.vcxproj -> C:\Users\shaban reda\source\repos\helical gear\Debug\helical gear.exe

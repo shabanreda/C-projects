@@ -1,0 +1,890 @@
+0.3( 0,,,0 )
+
+0.4( 1,,,0 )
+
+0.5( 2,,,0 )
+
+0.7( 3,,,0 )
+
+0.8( 4,,,0 )
+
+0.9( 5,,,0 )
+
+1( 6,,,0 )
+
+1.25( 7,,,0 )
+
+1.5( 8,,,0 )
+
+1.75( 9,,,0 )
+
+2( 10,,,0 )
+
+2.25( 11,,,0 )
+
+2.5( 12,,,0 )
+
+2.75( 13,,,0 )
+
+3( 14,,,0 )
+
+3.25( 15,,,0 )
+
+3.5( 16,,,0 )
+
+3.75( 17,,,0 )
+
+4( 18,,,0 )
+
+4.5( 19,,,0 )
+
+5( 20,,,0 )
+
+5.5( 21,,,0 )
+
+6( 22,,,0 )
+
+6.5( 23,,,0 )
+
+7( 24,,,0 )
+
+8( 25,,,0 )
+
+9( 26,,,0 )
+
+10( 27,,,0 )
+
+11( 28,,,0 )
+
+12( 29,,,0 )
+
+13( 30,,,0 )
+
+14( 31,,,0 )
+
+15( 32,,,0 )
+
+16( 33,,,0 )
+
+18( 34,,,0 )
+
+20( 35,,,0 )
+
+22( 36,,,0 )
+
+24( 37,,,0 )
+
+27( 38,,,0 )
+
+30( 39,,,0 )
+
+33( 40,,,0 )
+
+36( 41,,,0 )
+
+39( 42,,,0 )
+
+42( 43,,,0 )
+
+45( 44,,,0 )
+
+50( 45,,,0 )
+
+55( 46,,,0 )
+
+60( 47,,,0 )
+
+65( 48,,,0 )
+
+70( 49,,,0 )
+
+75( 50,,,0 )
+
+
+
+380( 0,,,0 )            180( 0,,,1 )            150( 0,,,2 )
+
+450( 1,,,0 )            220( 1,,,1 )            150( 1,,,2 )
+
+520( 2,,,0 )            250( 2,,,1 )            150( 2,,,2 )
+
+600( 3,,,0 )            360( 3,,,1 )            150( 3,,,2 )
+
+500( 4,,,0 )            300( 4,,,1 )            155( 4,,,2 )
+
+600( 5,,,0 )            370( 5,,,1 )            172( 5,,,2 )
+
+650( 6,,,0 )            400( 6,,,1 )            206( 6,,,2 )
+
+750( 7,,,0 )            490( 7,,,1 )            250( 7,,,2 )
+
+
+
+V( 0,,,0 )              e( 0,,,1 )
+
+1( 1,,,0 )              125( 1,,,1 )
+
+2( 2,,,0 )              100( 2,,,1 )
+
+3( 3,,,0 )              95( 3,,,1 )
+
+4( 4,,,0 )              86.3( 4,,,1 )
+
+5( 5,,,0 )              62.5( 5,,,1 )
+
+6( 6,,,0 )              55( 6,,,1 )
+
+7( 7,,,0 )              50( 7,,,1 )
+
+8( 8,,,0 )              43.8( 8,,,1 )
+
+9( 9,,,0 )              38.8( 9,,,1 )
+
+10( 10,,,0 )            37.5( 10,,,1 )
+
+12( 11,,,0 )            26.3( 11,,,1 )
+
+15( 12,,,0 )            25( 12,,,1 )
+
+20( 13,,,0 )            14.3( 13,,,1 )
+
+25( 14,,,0 )            13.5( 14,,,1 )
+
+30( 15,,,0 )            12.5( 15,,,1 )
+
+35( 16,,,0 )            9.5( 16,,,1 )
+
+50( 17,,,0 )            9.5( 17,,,1 )
+
+
+
+BHNp( 0,,,0 )           BHNg( 0,,,1 )           15*( 0,,,2 )            20*( 0,,,3 )
+
+150( 1,,,0 )            150( 1,,,1 )            0.22( 1,,,2 )           0.29( 1,,,3 )
+
+200( 2,,,0 )            150( 2,,,1 )            0.31( 2,,,2 )           0.42( 2,,,3 )
+
+250( 3,,,0 )            150( 3,,,1 )            0.42( 3,,,2 )           0.56( 3,,,3 )
+
+200( 4,,,0 )            200( 4,,,1 )            0.45( 4,,,2 )           0.60( 4,,,3 )
+
+250( 5,,,0 )            200( 5,,,1 )            0.55( 5,,,2 )           0.72( 5,,,3 )
+
+300( 6,,,0 )            200( 6,,,1 )            0.70( 6,,,2 )           0.92( 6,,,3 )
+
+250( 7,,,0 )            250( 7,,,1 )            0.75( 7,,,2 )           0.95( 7,,,3 )
+
+300( 8,,,0 )            250( 8,,,1 )            0.86( 8,,,2 )           1.14( 8,,,3 )
+
+350( 9,,,0 )            250( 9,,,1 )            1.00( 9,,,2 )           1.38( 9,,,3 )
+
+300( 10,,,0 )           300( 10,,,1 )           1.05( 10,,,2 )          1.40( 10,,,3 )
+
+350( 11,,,0 )           300( 11,,,1 )           1.20( 11,,,2 )          1.64( 11,,,3 )
+
+400( 12,,,0 )           300( 12,,,1 )           1.30( 12,,,2 )          1.80( 12,,,3 )
+
+
+
+
+ please enter the following data  :
+
+
+        power  (KW)  =  20
+
+  anglur speed (rpm) =  2500
+
+    reduction ratio  =  4
+
+        module  (mm/tooth)  =  2
+
+
+    pinion diameter  =  110
+
+
+ please try to enter the tooth width b (mm)
+
+ but rememper that b shloud be between :
+  12 mm  to 20 mm  --> for cast teeth
+ 20 mm  to 50 mm )  --> for machined teeth
+
+        tooth width b (mm)    =  40
+
+DLTp = 0.244979 (rad)
+DLTg = 1.32582 (rad)
+ Dp  = 110 (mm)
+ Dg  = 440 (mm)
+ Dpm = 100.299 (mm)
+ Dgm = 401.194 (mm)
+  Pt = 1523.34 (N)
+Frp = Fag =1240.07 (N)
+Fap = Frg =310.017 (N)
+ Kyp = 0.429729
+  Ks = 1.5
+  Kv = 0.294133
+   V = 14.399 (m/s)
+ b/L = 0.17639
+
+
+ segma pinion = 274.371 (MPa)
+ r =  220
+ r =  250
+ r =  360
+ r =  300
+ r =  370
+ r =  400
+ r =  490
+
+ the nearst values to your segma yield is  ( 490  MPa
+
+ and segma ultimate is  ( 750  MPa
+
+ ep = 25.2605 Mm
+
+
+ Kd = 294.411 N/mm
+
+  Pd =6041.54N
+
+
+ this  endurence force  (Pen) 12891.9  N
+
+   The Margin of safety = 113.387 %
+
+
+ this wear forcee  (Pw) = 6688 N
+
+# to exit click          ---> ( F )
+
+# to return the process  ---> ( R )
+
+l
+        module  (mm/tooth)  =  1.75
+
+
+    pinion diameter  =  120.75
+
+
+ please try to enter the tooth width b (mm)
+
+ but rememper that b shloud be between :
+  10.5 mm  to 17.5 mm  --> for cast teeth
+ 17.5 mm  to 43.75 mm )  --> for machined teeth
+
+        tooth width b (mm)    =  43.25
+
+DLTp = 0.244979 (rad)
+DLTg = 1.32582 (rad)
+ Dp  = 120.75 (mm)
+ Dg  = 483 (mm)
+ Dpm = 110.26 (mm)
+ Dgm = 441.041 (mm)
+  Pt = 1385.71 (N)
+Frp = Fag =1128.03 (N)
+Fap = Frg =282.008 (N)
+ Kyp = 0.439929
+  Ks = 1.5
+  Kv = 0.275152
+   V = 15.8061 (m/s)
+ b/L = 0.173742
+
+
+ segma pinion = 274.58 (MPa)
+ r =  220
+ r =  250
+ r =  360
+ r =  300
+ r =  370
+ r =  400
+ r =  490
+
+ the nearst values to your segma yield is  ( 490  MPa
+
+ and segma ultimate is  ( 750  MPa
+
+ ep = 23.2749 Mm
+
+
+ Kd = 271.269 N/mm
+
+  Pd =6285.83N
+
+
+ this  endurence force  (Pen) 12486.4  N
+
+   The Margin of safety = 98.6438 %
+
+
+ this wear forcee  (Pw) = 7938.1 N
+
+# to exit click          ---> ( F )
+
+# to return the process  ---> ( R )
+
+ق
+        module  (mm/tooth)  =  1.75
+
+
+    pinion diameter  =  120
+
+
+  wrong : The number of teeth = 68.5714 (mm) and exm = 1
+ It is over design , it shloud be integer number ....change the pinion diameter
+
+ the nearst values to your pinion diameter is  ( 119  ,  120.75 )
+
+    pinion diameter  =  120.75
+
+
+ please try to enter the tooth width b (mm)
+
+ but rememper that b shloud be between :
+  10.5 mm  to 17.5 mm  --> for cast teeth
+ 17.5 mm  to 43.75 mm )  --> for machined teeth
+
+        tooth width b (mm)    =  40
+
+DLTp = 0.244979 (rad)
+DLTg = 1.32582 (rad)
+ Dp  = 120.75 (mm)
+ Dg  = 483 (mm)
+ Dpm = 111.049 (mm)
+ Dgm = 444.194 (mm)
+  Pt = 1375.87 (N)
+Frp = Fag =1120.02 (N)
+Fap = Frg =280.006 (N)
+ Kyp = 0.439929
+  Ks = 1.5
+  Kv = 0.275152
+   V = 15.8061 (m/s)
+ b/L = 0.160686
+
+
+ segma pinion = 290.197 (MPa)
+ r =  220
+ r =  250
+ r =  360
+ r =  300
+ r =  370
+ r =  400
+ r =  490
+
+ the nearst values to your segma yield is  ( 490  MPa
+
+ and segma ultimate is  ( 750  MPa
+
+ ep = 23.2749 Mm
+
+
+ Kd = 271.269 N/mm
+
+  Pd =5966.11N
+
+
+ this  endurence force  (Pen) 11548.1  N
+
+   The Margin of safety = 93.5622 %
+
+
+ this wear forcee  (Pw) = 7341.6 N
+
+# to exit click          ---> ( F )
+
+# to return the process  ---> ( R )
+
+r
+        module  (mm/tooth)  =  1.75
+
+
+    pinion diameter  =  100
+
+
+  wrong : The number of teeth = 57.1429 (mm) and exm = 0.25
+ It is over design , it shloud be integer number ....change the pinion diameter
+
+ the nearst values to your pinion diameter is  ( 99.75  ,  101.5 )
+
+    pinion diameter  =  101.5
+
+
+ please try to enter the tooth width b (mm)
+
+ but rememper that b shloud be between :
+  10.5 mm  to 17.5 mm  --> for cast teeth
+ 17.5 mm  to 43.75 mm )  --> for machined teeth
+
+        tooth width b (mm)    =  40
+
+DLTp = 0.244979 (rad)
+DLTg = 1.32582 (rad)
+ Dp  = 101.5 (mm)
+ Dg  = 406 (mm)
+ Dpm = 91.7986 (mm)
+ Dgm = 367.194 (mm)
+  Pt = 1664.39 (N)
+Frp = Fag =1354.89 (N)
+Fap = Frg =338.723 (N)
+ Kyp = 0.432329
+  Ks = 1.5
+  Kv = 0.311102
+   V = 13.2863 (m/s)
+ b/L = 0.191161
+
+
+ segma pinion = 327.846 (MPa)
+ r =  220
+ r =  250
+ r =  360
+ r =  300
+ r =  370
+ r =  400
+ r =  490
+
+ this segma yield ( 491.769 ) is not found  !
+
+ please  improve your data again
+
+        module  (mm/tooth)  =  1.75
+
+
+    pinion diameter  =  110
+
+
+  wrong : The number of teeth = 62.8571 (mm) and exm = 1.5
+ It is over design , it shloud be integer number ....change the pinion diameter
+
+ the nearst values to your pinion diameter is  ( 108.5  ,  110.25 )
+
+    pinion diameter  =  110.25
+
+
+ please try to enter the tooth width b (mm)
+
+ but rememper that b shloud be between :
+  10.5 mm  to 17.5 mm  --> for cast teeth
+ 17.5 mm  to 43.75 mm )  --> for machined teeth
+
+        tooth width b (mm)    =  40
+
+DLTp = 0.244979 (rad)
+DLTg = 1.32582 (rad)
+ Dp  = 110.25 (mm)
+ Dg  = 441 (mm)
+ Dpm = 100.549 (mm)
+ Dgm = 402.194 (mm)
+  Pt = 1519.55 (N)
+Frp = Fag =1236.98 (N)
+Fap = Frg =309.246 (N)
+ Kyp = 0.436113
+  Ks = 1.5
+  Kv = 0.293662
+   V = 14.4317 (m/s)
+ b/L = 0.17599
+
+
+ segma pinion = 308.554 (MPa)
+ r =  220
+ r =  250
+ r =  360
+ r =  300
+ r =  370
+ r =  400
+ r =  490
+
+ the nearst values to your segma yield is  ( 490  MPa
+
+ and segma ultimate is  ( 750  MPa
+
+ ep = 25.2463 Mm
+
+
+ Kd = 294.245 N/mm
+
+  Pd =6045.59N
+
+
+ this  endurence force  (Pen) 11448  N
+
+   The Margin of safety = 89.3605 %
+
+
+ this wear forcee  (Pw) = 6703.2 N
+
+# to exit click          ---> ( F )
+
+# to return the process  ---> ( R )
+
+40
+        module  (mm/tooth)  =  1.75
+
+
+    pinion diameter  =  100
+
+
+  wrong : The number of teeth = 57.1429 (mm) and exm = 0.25
+ It is over design , it shloud be integer number ....change the pinion diameter
+
+ the nearst values to your pinion diameter is  ( 99.75  ,  101.5 )
+
+    pinion diameter  =  101.5
+
+
+ please try to enter the tooth width b (mm)
+
+ but rememper that b shloud be between :
+  10.5 mm  to 17.5 mm  --> for cast teeth
+ 17.5 mm  to 43.75 mm )  --> for machined teeth
+
+        tooth width b (mm)    =  43
+
+DLTp = 0.244979 (rad)
+DLTg = 1.32582 (rad)
+ Dp  = 101.5 (mm)
+ Dg  = 406 (mm)
+ Dpm = 91.071 (mm)
+ Dgm = 364.284 (mm)
+  Pt = 1677.69 (N)
+Frp = Fag =1365.72 (N)
+Fap = Frg =341.429 (N)
+ Kyp = 0.432329
+  Ks = 1.5
+  Kv = 0.311102
+   V = 13.2863 (m/s)
+ b/L = 0.205498
+
+
+ segma pinion = 312.957 (MPa)
+ r =  220
+ r =  250
+ r =  360
+ r =  300
+ r =  370
+ r =  400
+ r =  490
+
+ the nearst values to your segma yield is  ( 490  MPa
+
+ and segma ultimate is  ( 750  MPa
+
+ ep = 25.7426 Mm
+
+
+ Kd = 300.03 N/mm
+
+  Pd =6169.24N
+
+
+ this  endurence force  (Pen) 12199.8  N
+
+   The Margin of safety = 97.7518 %
+
+
+ this wear forcee  (Pw) = 6634.04 N
+
+# to exit click          ---> ( F )
+
+# to return the process  ---> ( R )
+
+43
+        module  (mm/tooth)  =  1.75
+
+
+    pinion diameter  =  100
+
+
+  wrong : The number of teeth = 57.1429 (mm) and exm = 0.25
+ It is over design , it shloud be integer number ....change the pinion diameter
+
+ the nearst values to your pinion diameter is  ( 99.75  ,  101.5 )
+
+    pinion diameter  =  101.5
+
+
+ please try to enter the tooth width b (mm)
+
+ but rememper that b shloud be between :
+  10.5 mm  to 17.5 mm  --> for cast teeth
+ 17.5 mm  to 43.75 mm )  --> for machined teeth
+
+        tooth width b (mm)    =  38
+
+DLTp = 0.244979 (rad)
+DLTg = 1.32582 (rad)
+ Dp  = 101.5 (mm)
+ Dg  = 406 (mm)
+ Dpm = 92.2836 (mm)
+ Dgm = 369.135 (mm)
+  Pt = 1655.64 (N)
+Frp = Fag =1347.77 (N)
+Fap = Frg =336.942 (N)
+ Kyp = 0.432329
+  Ks = 1.5
+  Kv = 0.311102
+   V = 13.2863 (m/s)
+ b/L = 0.181603
+
+
+ segma pinion = 339.278 (MPa)
+ r =  220
+ r =  250
+ r =  360
+ r =  300
+ r =  370
+ r =  400
+ r =  490
+
+ this segma yield ( 508.917 ) is not found  !
+
+ please  improve your data again
+
+        module  (mm/tooth)  =  1.75
+
+
+    pinion diameter  =  101.5
+
+
+ please try to enter the tooth width b (mm)
+
+ but rememper that b shloud be between :
+  10.5 mm  to 17.5 mm  --> for cast teeth
+ 17.5 mm  to 43.75 mm )  --> for machined teeth
+
+        tooth width b (mm)    =  40
+
+DLTp = 0.244979 (rad)
+DLTg = 1.32582 (rad)
+ Dp  = 101.5 (mm)
+ Dg  = 406 (mm)
+ Dpm = 91.7986 (mm)
+ Dgm = 367.194 (mm)
+  Pt = 1664.39 (N)
+Frp = Fag =1354.89 (N)
+Fap = Frg =338.723 (N)
+ Kyp = 0.432329
+  Ks = 1.5
+  Kv = 0.311102
+   V = 13.2863 (m/s)
+ b/L = 0.191161
+
+
+ segma pinion = 327.846 (MPa)
+ r =  220
+ r =  250
+ r =  360
+ r =  300
+ r =  370
+ r =  400
+ r =  490
+
+ this segma yield ( 491.769 ) is not found  !
+
+ please  improve your data again
+
+        module  (mm/tooth)  =  1.75
+
+
+    pinion diameter  =  103
+
+
+  wrong : The number of teeth = 58.8571 (mm) and exm = 1.5
+ It is over design , it shloud be integer number ....change the pinion diameter
+
+ the nearst values to your pinion diameter is  ( 101.5  ,  103.25 )
+
+    pinion diameter  =  103.25
+
+
+ please try to enter the tooth width b (mm)
+
+ but rememper that b shloud be between :
+  10.5 mm  to 17.5 mm  --> for cast teeth
+ 17.5 mm  to 43.75 mm )  --> for machined teeth
+
+        tooth width b (mm)    =  43
+
+DLTp = 0.244979 (rad)
+DLTg = 1.32582 (rad)
+ Dp  = 103.25 (mm)
+ Dg  = 413 (mm)
+ Dpm = 92.821 (mm)
+ Dgm = 371.284 (mm)
+  Pt = 1646.06 (N)
+Frp = Fag =1339.97 (N)
+Fap = Frg =334.992 (N)
+ Kyp = 0.433137
+  Ks = 1.5
+  Kv = 0.30745
+   V = 13.5154 (m/s)
+ b/L = 0.202015
+
+
+ segma pinion = 308.771 (MPa)
+ r =  220
+ r =  250
+ r =  360
+ r =  300
+ r =  370
+ r =  400
+ r =  490
+
+ the nearst values to your segma yield is  ( 490  MPa
+
+ and segma ultimate is  ( 750  MPa
+
+ ep = 25.6433 Mm
+
+
+ Kd = 298.873 N/mm
+
+  Pd =6205.31N
+
+
+ this  endurence force  (Pen) 12222.6  N
+
+   The Margin of safety = 96.9698 %
+
+
+ this wear forcee  (Pw) = 6748.42 N
+
+# to exit click          ---> ( F )
+
+# to return the process  ---> ( R )
+
+43
+        module  (mm/tooth)  =  1.75
+
+
+    pinion diameter  =  110
+
+
+  wrong : The number of teeth = 62.8571 (mm) and exm = 1.5
+ It is over design , it shloud be integer number ....change the pinion diameter
+
+ the nearst values to your pinion diameter is  ( 108.5  ,  110.25 )
+
+    pinion diameter  =  110.25
+
+
+ please try to enter the tooth width b (mm)
+
+ but rememper that b shloud be between :
+  10.5 mm  to 17.5 mm  --> for cast teeth
+ 17.5 mm  to 43.75 mm )  --> for machined teeth
+
+        tooth width b (mm)    =  38
+
+DLTp = 0.244979 (rad)
+DLTg = 1.32582 (rad)
+ Dp  = 110.25 (mm)
+ Dg  = 441 (mm)
+ Dpm = 101.034 (mm)
+ Dgm = 404.135 (mm)
+  Pt = 1512.26 (N)
+Frp = Fag =1231.05 (N)
+Fap = Frg =307.761 (N)
+ Kyp = 0.436113
+  Ks = 1.5
+  Kv = 0.293662
+   V = 14.4317 (m/s)
+ b/L = 0.16719
+
+
+ segma pinion = 319.819 (MPa)
+ r =  220
+ r =  250
+ r =  360
+ r =  300
+ r =  370
+ r =  400
+ r =  490
+
+ the nearst values to your segma yield is  ( 490  MPa
+
+ and segma ultimate is  ( 750  MPa
+
+ ep = 25.2463 Mm
+
+
+ Kd = 294.245 N/mm
+
+  Pd =5846.81N
+
+
+ this  endurence force  (Pen) 10875.6  N
+
+   The Margin of safety = 86.0083 %
+
+
+ this wear forcee  (Pw) = 6368.04 N
+
+# to exit click          ---> ( F )
+
+# to return the process  ---> ( R )
+
+
+
+
+        module  (mm/tooth)  =  1.75
+
+
+    pinion diameter  =  101.5
+
+
+ please try to enter the tooth width b (mm)
+
+ but rememper that b shloud be between :
+  10.5 mm  to 17.5 mm  --> for cast teeth
+ 17.5 mm  to 43.75 mm )  --> for machined teeth
+
+        tooth width b (mm)    =  43
+
+DLTp = 0.244979 (rad)
+DLTg = 1.32582 (rad)
+ Dp  = 101.5 (mm)
+ Dg  = 406 (mm)
+ Dpm = 91.071 (mm)
+ Dgm = 364.284 (mm)
+  Pt = 1677.69 (N)
+Frp = Fag =1365.72 (N)
+Fap = Frg =341.429 (N)
+ Kyp = 0.432329
+  Ks = 1.5
+  Kv = 0.311102
+   V = 13.2863 (m/s)
+ b/L = 0.205498
+
+
+ segma pinion = 312.957 (MPa)
+ r =  220
+ r =  250
+ r =  360
+ r =  300
+ r =  370
+ r =  400
+ r =  490
+
+ the nearst values to your segma yield is  ( 490  MPa
+
+ and segma ultimate is  ( 750  MPa
+
+ ep = 25.7426 Mm
+
+
+ Kd = 300.03 N/mm
+
+  Pd =6169.24N
+
+
+ this  endurence force  (Pen) 12199.8  N
+
+   The Margin of safety = 97.7518 %
+
+
+ this wear forcee  (Pw) = 6634.04 N
+
+# to exit click          ---> ( F )
+
+# to return the process  ---> ( R )
+
+
+
